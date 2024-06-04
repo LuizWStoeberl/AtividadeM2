@@ -1,0 +1,38 @@
+.contato{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-group{
+    display:flexbox;
+    margin-left: 40%;
+    
+}
+
+.form-control{
+    width: 400px;
+}
+
+.btn{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    margin-top: 470px;
+}
+
+
+
+.insta{
+    margin-right: 1600px;
+    margin-top: -40px;
+}
+
+.whats{
+    margin-right: 1500px;
+    margin-top: -27px;
+}
+
